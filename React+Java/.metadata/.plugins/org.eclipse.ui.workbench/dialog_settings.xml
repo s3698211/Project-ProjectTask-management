@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.e4.ui.importer.wizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="600"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="675"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="/myapp/src/main/java/myapp/springstarter/services/ProjectService.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/domain/Project.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/repositories/ProjectRepository.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/services/CustomUserDetailsService.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/repositories/BacklogRespositories.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/domain/ProjectTask.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/services/ProjectTaskService.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/security/SecurityConstants.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/security/JwtTokenProvider.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/validator/UserValidator.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/web/UserController.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/domain/User.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/security/SecurityConfig.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/services/UserService.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/exceptions/InvalidLoginResponse.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/exceptions/ProjectIdException.java"/>
+			<item value="/myapp/src/main/java/myapp/springstarter/exceptions/ProjectNotFoundException.java"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+		</list>
+		<list key="textEntries">
+			<item value="2"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="3"/>
+			<item value="1"/>
+			<item value="3"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="projectservice"/>
+			<item value="projectser"/>
+			<item value="project.java"/>
+			<item value="project"/>
+			<item value="projectre"/>
+			<item value="customuser"/>
+			<item value="backlog"/>
+			<item value="projecttask"/>
+			<item value="projecttaskser"/>
+			<item value="securitycons"/>
+			<item value="jwt"/>
+			<item value="uservalid"/>
+			<item value="usercontroller"/>
+			<item value="usercontr"/>
+			<item value="usercon"/>
+			<item value="user.java"/>
+			<item value="secu"/>
+			<item value="securityconfi"/>
+			<item value="security"/>
+			<item value="userserv"/>
+			<item value="user"/>
+			<item value="invalid"/>
+			<item value="response"/>
+			<item value="projectide"/>
+			<item value="projectnot"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+</section>
