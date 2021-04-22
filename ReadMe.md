@@ -11,6 +11,8 @@ I am using Ubuntu, so I only show instructions how to run the code on Ubuntu 18.
 		spring.datasource.username=root (replace "root" with your username if you are using a different username)
 		spring.datasource.password=Kingsbury22  (Replace "Kingsbury22" with your password"
 	4. Go to src/main/java/myapp.springstarter, run the file "SpringstarterApplication.java" to run the back end.
+	5. 
+After having the back-end running, you can move to next step.
 
 ### Run the front-end
 	1. Go to the "front-end" folder: 
